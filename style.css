@@ -1,0 +1,12 @@
+html {
+   scroll-behavior: smooth;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+body {
+text-align: center;
+  background: linear-gradient( #4287f5 0%,#4bf542 100%);
+}
